@@ -1,0 +1,16 @@
+/* 
+  fourthClass.strings
+  SecondApp
+
+  Created by Roque Rueda on 01/09/16.
+  Copyright © 2016 ST. All rights reserved.
+*/
+
+/* Conceptos Basicos */
+"Concetos Basicos"="En la clase 1 nos explicaron que cosas tiene swift y ademas...";
+/* Conceptos Basicos II */
+"Conceptos Basicos II"="En la clase 2 nos explicaron que cosas son los protocolos y los requeridos y opc...";
+/* Frank no vino */
+"Frank no vino"="Aqui se cancelo por que Frank no estaba creo que tenia un problema mecanico";
+/* Navegación Basica */
+"Navegación Basica"= "Esta es la clase en donde nos encontramos ahora";
